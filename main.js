@@ -1,3 +1,4 @@
-function calc(a, b) {
-    return a + b;
+function calc(a, b,c) {
+    let y = c * b;
+    return a + y;
 }
