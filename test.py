@@ -1,0 +1,2 @@
+name="aviad"
+print(name)
